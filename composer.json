@@ -48,7 +48,7 @@
         "tomatophp/filament-icons": "^1.0",
         "filament/spatie-laravel-media-library-plugin": "^3.2",
         "filament/spatie-laravel-translatable-plugin": "^3.2",
-        "tomatophp/filament-settings-hub": "^1.0",
+        "tomatophp/filament-settings-hub": "^2.0",
         "tomatophp/discord-notifications": "^1.0",
         "tomatophp/pusher-notifications": "^1.0",
         "tomatophp/messagebird-notifications": "^1.0",
